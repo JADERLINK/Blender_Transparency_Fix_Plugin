@@ -1,8 +1,8 @@
 # Blender Transparency Fix Plugin
 
 Um plugin simples para o Blender que corrige a transparência das texturas ao importar arquivos .obj
-<br> Ao importar modelos 3d usando o importado de .obj, percebi que as texturas com transparência ficavam pretas, e para corrigir isso algumas propriedades no material deveriam ser mudadas, esse plugin faz isso em lote para todos os materiais do modelo.
-<br> Nota; os plugins do blender são escritos em python, no qual não domino ainda essa linguagem de programação, então esse plugins é uma adaptação desse código (**[link](https://blender.stackexchange.com/questions/220490/changing-default-blend-mode-settings-for-materials)**), no qual fiz de uma maneira simples para resolver o problema.
+<br> Ao importar modelos 3d usando o importador de .obj, percebi que as texturas com transparência ficavam pretas, e para corrigir isso algumas propriedades no material deveriam ser mudadas, esse plugin faz isso em lote para todos os materiais do modelo.
+<br> Nota: os plugins do blender são escritos em python, no qual não domino ainda essa linguagem de programação, então esse plugins é uma adaptação desse código (**[link](https://blender.stackexchange.com/questions/220490/changing-default-blend-mode-settings-for-materials)**), no qual fiz de uma maneira simples para resolver o problema.
 
 
 Instalação
